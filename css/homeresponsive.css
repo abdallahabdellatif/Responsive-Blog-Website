@@ -1,0 +1,47 @@
+@media(min-width: 700px) and (max-width: 900px) {
+    .navbar {
+        display: flex;
+        flex-direction: row;
+        /* margin-bottom: 20px; */
+        justify-content: space-evenly;
+        align-items: center;
+    } 
+
+    .title-blogs {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .our-blogs {
+        margin-left: 50px;
+    }
+
+    .card {
+        width: 40%;
+    }
+}
+
+@media(min-width: 901px){
+    .navbar {
+        display: flex;
+        flex-direction: row;
+        /* margin-bottom: 20px; */
+        justify-content: space-evenly;
+        align-items: center;
+    } 
+
+    .title-blogs {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .our-blogs {
+        margin-left: 50px;
+    }
+
+    .card {
+        width: 30%;
+    }
+}

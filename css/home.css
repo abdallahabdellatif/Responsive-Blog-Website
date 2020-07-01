@@ -1,0 +1,25 @@
+@import "homeclasses.css";
+@import "homeresponsive.css";
+body {
+background-color: lightcyan;
+font-family: 'Montserrat', sans-serif;
+ font-size: 14px; 
+}
+
+a {
+    margin-right: 10px;
+    color: darkblue;
+    font-weight: 300;
+}
+
+h1,
+h2,
+h3 {
+    color: #383e56;
+    font-weight: 600;
+    line-height: 1.5rem;
+}
+
+img {
+    width: 80%;
+}
